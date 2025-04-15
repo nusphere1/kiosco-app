@@ -1,1 +1,6 @@
-// postcss.config.js - contenido de muestra
+module.exports = {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
+}
